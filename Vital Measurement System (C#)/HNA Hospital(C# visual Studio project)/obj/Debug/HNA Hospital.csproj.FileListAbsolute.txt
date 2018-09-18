@@ -1,0 +1,25 @@
+C:\Users\Beebz\Desktop\HNA Hospital\HNA Hospital\bin\Debug\HNA Hospital.exe
+C:\Users\Beebz\Desktop\HNA Hospital\HNA Hospital\bin\Debug\HNA Hospital.pdb
+C:\Users\Beebz\Desktop\HNA Hospital\HNA Hospital\obj\Debug\HNA Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Beebz\Desktop\HNA Hospital\HNA Hospital\obj\Debug\HNA_Hospital.Properties.Resources.resources
+C:\Users\Beebz\Desktop\HNA Hospital\HNA Hospital\obj\Debug\HNA Hospital.csproj.GenerateResource.Cache
+C:\Users\Beebz\Desktop\HNA Hospital\HNA Hospital\obj\Debug\HNA Hospital.exe
+C:\Users\Beebz\Desktop\HNA Hospital\HNA Hospital\obj\Debug\HNA Hospital.pdb
+C:\Users\Beebz\Desktop\HNA Hospital\HNA Hospital\obj\Debug\HNA_Hospital.CardNumber.resources
+C:\Users\Beebz\Desktop\HNA Hospital\HNA Hospital\obj\Debug\HNA_Hospital.Welcome1.resources
+C:\Users\Beebz\Desktop\HNA Hospital\HNA Hospital\bin\Debug\HNA Hospital.exe.config
+C:\Users\Beebz\Desktop\HNA Hospital\HNA Hospital\bin\Debug\MySql.Data.dll
+C:\Users\Beebz\Desktop\HNA Hospital\HNA Hospital\bin\Debug\System.Data.dll
+C:\Users\Beebz\Desktop\HNA Hospital\HNA Hospital\obj\Debug\HNA_Hospital.HeartBeat.resources
+E:\2018 work\HNA Hospital\HNA Hospital\bin\Debug\HNA Hospital.exe.config
+E:\2018 work\HNA Hospital\HNA Hospital\obj\Debug\HNA Hospital.exe
+E:\2018 work\HNA Hospital\HNA Hospital\obj\Debug\HNA Hospital.pdb
+E:\2018 work\HNA Hospital\HNA Hospital\bin\Debug\HNA Hospital.exe
+E:\2018 work\HNA Hospital\HNA Hospital\bin\Debug\HNA Hospital.pdb
+E:\2018 work\HNA Hospital\HNA Hospital\bin\Debug\System.Data.dll
+E:\2018 work\HNA Hospital\HNA Hospital\obj\Debug\HNA Hospital.csprojResolveAssemblyReference.cache
+E:\2018 work\HNA Hospital\HNA Hospital\obj\Debug\HNA_Hospital.CardNumber.resources
+E:\2018 work\HNA Hospital\HNA Hospital\obj\Debug\HNA_Hospital.Welcome1.resources
+E:\2018 work\HNA Hospital\HNA Hospital\obj\Debug\HNA_Hospital.HeartBeat.resources
+E:\2018 work\HNA Hospital\HNA Hospital\obj\Debug\HNA_Hospital.Properties.Resources.resources
+E:\2018 work\HNA Hospital\HNA Hospital\obj\Debug\HNA Hospital.csproj.GenerateResource.Cache
